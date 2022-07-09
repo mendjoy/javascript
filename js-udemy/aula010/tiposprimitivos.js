@@ -9,10 +9,10 @@ const num2=10.52; //Número com ponto flutuante
 
 
 let nomeAluno; //Valor indefinido, não aponta para local nenhum na memória
-let sobrenomeAluno=null; //nulo, não aponta para local nenhum na memória
+let sobrenomeAluno=null; //nulo, não aponta para local nenhum na memória, utilizado para desconfigurar uma var 
 
 //Boolean (Logico)
-const boolean=true; //true or false
+const boolean=true; //true or false (logico)
 
-
+console.log(typeof nomeAluno);
 
