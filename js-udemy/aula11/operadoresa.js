@@ -30,4 +30,17 @@ console.log(contador2);
 
 //Pré incremento ou decremento e pós incremento ou decremento 
 
+//NaN = not a number 
 
+//Conversões
+const n4 = 10; 
+const n5 = parseInt('5') //Converte string para number (inteiro)
+console.log(n4 + n5);
+
+const n6 = 16;
+const n7 = parseFloat('6.2'); //converte string para number com ponto flutuante 
+console.log(n6 + n7);
+
+const n8 = 22;
+const n9 = Number('6.2'); //converte string para number, não faz distinção entre inteiro e de ponto flutuante
+console.log(n8 + n9);
