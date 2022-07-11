@@ -1,3 +1,5 @@
+//Aula sobre tipos primitivos
+
 //strings
 const nome='Joyce';
 const nome1='Mendes'; 
