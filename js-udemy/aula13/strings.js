@@ -1,3 +1,5 @@
+//Aula sobre strings 
+
 // strings são indexadas, a contagem inicia do 0
 let umaString = "Um \"texto\""; //Utilizar aspas duplas dentro de outras
 let duasString = "Um \\texto"; //Será exibida apenas uma barra
